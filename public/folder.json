@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Basics of Digital Photography",
+    "Instructor": "Serhiy Hipskyy",
+    "InstructorEmail":"serhiy@gmail.com",
+    "InstructorImage": "https://images.unsplash.com/photo-1611485988300-b7530defb8e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "Image": "https://i.ibb.co/RDK1djK/350097188-271517438727574-1175114914510576845-n.jpg",
+    "AvailableSits": 6,
+    "EnrolStudent": 24,
+    "price": 244
+  },
+  {
+    "Name": "Applications of Portrait Photography",
+    "Instructor": "LOGAN WEAVER",
+    "InstructorEmail":"logan@gmail.com",
+    "InstructorImage": "https://images.unsplash.com/photo-1591258739299-5b65d5cbb235?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "Image": "https://i.ibb.co/xmwChHS/348381097-157949860506168-1016818630946178391-n.jpg",
+    "AvailableSits": 6,
+    "EnrolStudent": 25,
+    "price": 264
+  },
+  {
+    "Name": "Glamour and Fashion Photography",
+    "Instructor": "Nartan Büyükyıldız",
+    "InstructorEmail":"nartan@gmail.com",
+    "InstructorImage": "https://images.unsplash.com/photo-1624395213043-fa2e123b2656?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "Image": "https://i.ibb.co/nfn5HgR/348384484-213239424932479-3068206769054792112-n.jpg",
+    "AvailableSits": 6,
+    "EnrolStudent": 24,
+    "price": 244
+  },
+  {
+    "Name": "Applications of Digital Photography",
+    "Instructor": "Zoran Borojevic",
+    "InstructorEmail":"zoran@gmail.com",
+    "InstructorImage": "https://images.unsplash.com/photo-1589279715734-6631a314dfa2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=436&q=80",
+    "Image": "https://www.camerahouse.com.au/blog/wp-content/uploads/2018/05/photographer-with-tripod-inside-1024x683.jpg",
+    "AvailableSits": 6,
+    "EnrolStudent": 24,
+    "price": 244
+  },
+  {
+    "Name": "Sports Photography",
+    "Instructor": "Rachel McDermott",
+    "InstructorEmail":"racehel@gmail.com",
+    "InstructorImage": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=744&q=80",
+    "Image": "https://t3.ftcdn.net/jpg/03/28/48/46/240_F_328484683_sxv6oAPTkhcE0FopxnjpVb7Zw0nRpp1X.jpg",
+    "AvailableSits": 6,
+    "EnrolStudent": 24,
+    "price": 244
+  },
+  {
+    "Name": "Photographing Fine-art",
+    "Instructor": "Devet smith",
+    "InstructorEmail":"devetsmith1@gmail.com",
+    "InstructorImage": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=744&q=80",
+    "Image": "https://t4.ftcdn.net/jpg/01/72/76/43/240_F_172764366_6MYavYxLE36pjJvMvkNt5EJMBqEeB5o7.jpg",
+    "AvailableSits": 6,
+    "EnrolStudent": 24,
+    "price": 244
+  }
+]

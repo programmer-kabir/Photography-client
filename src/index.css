@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.carousel{
+    height: 600px;
+    text-align: center;
+}
+
+.btn{
+    /* padding: 12px 19px; */
+    background: blue;
+    color: white;
+}
+.btn:hover{
+    background: #0031b8;
+}
